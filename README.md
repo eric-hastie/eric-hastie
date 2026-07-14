@@ -2,7 +2,7 @@
 
 **Enterprise sales professional who builds his own tools.**
 
-I'm an Account Executive, not an engineer. Over the last six months I've been using AI pair-programming tools to build working software around the problems I actually have - finding the right opportunities, researching accounts from primary sources, and turning messy real-world data into something a team can use. The AI does the typing; the ICP, the process design, and the QA are on me.
+I'm an Account Executive, not an engineer. I've been using AI pair-programming tools to build working software around the problems I actually have - finding the right opportunities, researching accounts from primary sources, and turning messy real-world data into something a team can use. The AI does the typing; the ICP, the process design, and the QA are on me.
 
 Everything here ships with the same discipline I'd bring to a territory: scope the problem, verify the data, and tell the truth about what works (and what didn't).
 
