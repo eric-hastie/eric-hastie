@@ -1,6 +1,6 @@
 # Hi - I'm Eric 👋
 
-**Enterprise sales professional who builds his own tools.**
+**The Account Executive who builds his own tools.**
 
 I'm an Account Executive, not an engineer. I've been using AI pair-programming tools to build working software around the problems I actually have - finding the right opportunities, researching accounts from primary sources, and turning messy real-world data into something a team can use. The AI does the typing; the ICP, the process design, and the QA are on me.
 
@@ -26,6 +26,6 @@ Everything here ships with the same discipline I'd bring to a territory: scope t
 
 ## How I work
 
-Every project here started as a real problem, got scoped into something shippable, and was built with AI tooling doing the typing while I did the judgment: what to build, what the data actually says, what stays private, and when "done" is done. That's the same job as enterprise sales - I just noticed the tools got good enough that I don't have to wait for a roadmap.
+Every project here started as a real problem, got scoped into something shippable, and was built with AI tooling doing the typing while I did the judgment: what to build, what the data actually says, what stays private, and when "done" is done. That's the same job as sales - I just noticed the tools got good enough that I don't have to wait for a roadmap.
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/eric-hastie-8543513a/) · hastie586@gmail.com - whatever's easiest for you!
