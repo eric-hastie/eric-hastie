@@ -8,9 +8,7 @@ Everything here ships with the same discipline I'd bring to a territory: scope t
 
 ## The work
 
-**[remote-ae-job-hunt](https://github.com/eric-hastie/remote-ae-job-hunt)** - I treated my job search like a sales pipeline: defined an ICP, built an automated top-of-funnel, and hand-verified every record before it entered the pipe. The pivot that shaped it: scraping kept burying the good fits, so I stopped scraping and started verifying.
-
-**[territory-radar](https://github.com/eric-hastie/territory-radar)** - The same engine, pointed at the other side of the desk: an account-planning board that scores a territory on live buying signals (hiring, funding, leadership moves) and tracks weekly momentum. [Live demo](https://eric-hastie.github.io/territory-radar/)
+**[territory-radar](https://github.com/eric-hastie/territory-radar)** - An account-planning board that scores a sales territory on live buying signals (hiring, funding, leadership moves) and tracks weekly momentum. Pick an industry and see a full scored territory - every account real, every signal verified against live sources. [Live demo](https://eric-hastie.github.io/territory-radar/)
 
 **[portfolio-trading-knowledge-library](https://github.com/eric-hastie/portfolio-trading-knowledge-library)** - The leader of a trading community asked me to turn 4 years of Discord history (40k screenshots, 161k messages) into a queryable knowledge library for beginners. The repo publishes the tooling and the reasoning - none of the community's data. Knowing what never leaves the CRM is part of the job.
 
